@@ -1,0 +1,68 @@
+[
+  {
+    "nome": "Smartphone Galaxy S22 Ultra",
+    "descricao": "O mais novo lançamento da Samsung, com câmera de 108 MP e tela AMOLED de 6.8 polegadas.",
+    "valor": "4999.99",
+    "disponivel": "sim"
+  },
+  {
+    "nome": "Notebook Gamer Acer Predator Helios 500",
+    "descricao": "Equipado com processador Intel Core i9, placa de vídeo RTX 3080, e tela de 17.3 polegadas com taxa de atualização de 300Hz.",
+    "valor": "8999.99",
+    "disponivel": "sim"
+  },
+  {
+    "nome": "Câmera DSLR Canon EOS 5D Mark IV",
+    "descricao": "Ideal para fotógrafos profissionais, com sensor full-frame de 30.4 MP e capacidade de gravar vídeos em 4K.",
+    "valor": "3499.99",
+    "disponivel": "sim"
+  },
+  {
+    "nome": "Smart TV LG OLED65C1",
+    "descricao": "Televisor OLED de 65 polegadas com resolução 4K, Dolby Vision IQ, e suporte para HDR10 Pro e HLG Pro.",
+    "valor": "2799.99",
+    "disponivel": "sim"
+  },
+  {
+    "nome": "Forno Elétrico Oster Digital",
+    "descricao": "Forno elétrico com capacidade para 45 litros, controle digital e múltiplas funções de cozimento.",
+    "valor": "499.99",
+    "disponivel": "sim"
+  },
+  {
+    "nome": "Sistema de Som JBL PartyBox 310",
+    "descricao": "Caixa de som Bluetooth com luzes RGB, potência de 240 watts RMS, e bateria com autonomia de até 18 horas.",
+    "valor": "1499.99",
+    "disponivel": "sim"
+  },
+  {
+    "nome": "Bicicleta Mountain Bike Trek Fuel EX 9.9",
+    "descricao": "Bicicleta de alto desempenho para trilhas, com quadro de carbono, suspensão Fox Float Factory e grupo Shimano XTR de 12 velocidades.",
+    "valor": "7999.99",
+    "disponivel": "sim"
+  },
+  {
+    "nome": "Máquina de Café Espresso De'Longhi Dedica",
+    "descricao": "Máquina compacta de café espresso com sistema Thermoblock e vaporizador de leite para preparar cappuccinos e lattes.",
+    "valor": "799.99",
+    "disponivel": "sim"
+  },
+  {
+    "nome": "Console Sony PlayStation 5",
+    "descricao": "Novo console de videogame da Sony, com suporte a resolução 4K e 8K, controle DualSense com feedback tátil e gatilhos adaptativos.",
+    "valor": "3499.99",
+    "disponivel": "sim"
+  },
+  {
+    "nome": "Monitor Gamer ASUS ROG Swift PG35VQ",
+    "descricao": "Monitor ultra-wide de 35 polegadas com resolução 3440x1440, taxa de atualização de 200Hz, e suporte para HDR1000.",
+    "valor": "2999.99",
+    "disponivel": "sim"
+  },
+  {
+    "nome": "Amanda",
+    "descricao": "ajfdsfjajsd",
+    "valor": "1000",
+    "disponivel": "true"
+  }
+]
